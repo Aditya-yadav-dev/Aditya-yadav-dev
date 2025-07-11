@@ -40,7 +40,7 @@ Personal Portfolio	My personal portfolio showcasing projects
 
 📧 Email: aditya828326@gmail.com
 
-🔗 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/aditya-yadav-b525652b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-yadav-b525652b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
