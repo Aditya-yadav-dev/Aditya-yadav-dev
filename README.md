@@ -13,7 +13,7 @@ I’m a MERN Stack Developer passionate about building scalable web applications
 🎯 I’m focused on contributing to open-source projects and landing a role in a fast-paced tech team
 
 
-<h2>🛠️ Skills </h2>
+<h3>🛠️ Skills </h3>
 
 C/C++, Java, MERN Stack (Frontend ||	Backend ||	Database)	
 
@@ -22,9 +22,9 @@ JavaScript (ES6+)	RESTful APIs,	Postman,
 HTML5, CSS3, Tailwind	Authentication, JWT		
 
 
-<h2>📂 Projects
+<h3>📂 Projects
 
-Project	Description	Tech Stack </h2>
+Project	Description	Tech Stack </h3>
 
 LinkedIn Clone A full-stack application in which user can SignUp, SignIn, can create post with post description & Profile that can be updated, Live like and Comments Functionality(Using WebSocket-io)  React, Node.js, Express.js, MongoDB
 
@@ -32,12 +32,12 @@ Airbnb Clone	Clone of Airbnb with booking and search functionalities.	MERN Stack
 Personal Portfolio	My personal portfolio showcasing projects
 
 
-📈 GitHub Stats
+<h3>📈 GitHub Stats </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-yadav-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-yadav-dev&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
-</p>📫 How to Reach Me
+</p><h3>📫 How to Reach Me</h3>
 
 📧 Email: aditya828326@gmail.com
 
