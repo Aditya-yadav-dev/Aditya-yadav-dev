@@ -15,7 +15,7 @@ I’m a MERN Stack Developer passionate about building scalable web applications
 
 🛠️ Skills
 
-Frontend	Backend	Database	
+C/C++, Java, MERN Stack (Frontend ||	Backend ||	Database)	
 
 React, 	Node.js, Express.js	MongoDB, Mongoose	Git, VS Code
 JavaScript (ES6+)	RESTful APIs,	Postman, 
@@ -34,8 +34,8 @@ Personal Portfolio	My personal portfolio showcasing projects
 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourname&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?Aditya-yadav-dev=AdityaYadv&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?Aditya-yadav-dev=AdityaYadav&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>📫 How to Reach Me
 
 📧 Email: aditya828326@gmail.com
