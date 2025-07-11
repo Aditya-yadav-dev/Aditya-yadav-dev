@@ -27,6 +27,7 @@ HTML5, CSS3, Tailwind	Authentication, JWT
 Project	Description	Tech Stack
 
 LinkedIn Clone A full-stack application in which user can SignUp, SignIn, can create post with post description & Profile that can be updated, Live like and Comments Functionality(Using WebSocket-io)  React, Node.js, Express.js, MongoDB
+
 Airbnb Clone	Clone of Airbnb with booking and search functionalities.	MERN Stack
 Personal Portfolio	My personal portfolio showcasing projects
 
