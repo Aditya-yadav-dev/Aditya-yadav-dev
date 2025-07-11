@@ -34,8 +34,8 @@ Personal Portfolio	My personal portfolio showcasing projects
 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Aditya-yadav-dev=AdityaYadv&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?Aditya-yadav-dev=AdityaYadav&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-yadav-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-yadav-dev&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>📫 How to Reach Me
 
 📧 Email: aditya828326@gmail.com
