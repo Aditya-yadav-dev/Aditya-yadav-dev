@@ -39,7 +39,7 @@ Live Demo: https://airbnb-clone.onrender.com/
 <h4>LinkedIn Clone</h4>
 LinkedIn Clone A full-stack application in which user can SignUp, SignIn, can create post with post description & Profile that can be updated, Real-time like and Comments Functionality(Using WebSocket-io)  React, Node.js, Express.js, MongoDB, multer & cloudinary(for image management)
 
-Live Demo: https://linkdlnclone-frontend-n3dn.onrender.com
+Live Demo: https://linked-in-clone-q8fk.vercel.app
 
 <h3>📈 GitHub Stats </h3>
 
