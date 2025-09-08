@@ -8,9 +8,9 @@ I’m a MERN Stack Developer passionate about building scalable web applications
 
 🌱 I’m currently learning Next.js and TypeScript, improving problem solving skills
 
-💬 Ask me about JavaScript, React, Node.js, Express, MongoDB
+💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, C/C++ and Java
 
-🎯 I’m focused on contributing to open-source projects and landing a role in a fast-paced tech team
+🎯 I’m focused on building personal projects and contributing to open-source projects and landing a role in a fast-paced tech team
 
 
 <h3>🛠️ Skills </h3>
@@ -26,11 +26,20 @@ HTML5, CSS3, Tailwind	Authentication, JWT
 
 Project	Description	Tech Stack </h3>
 
-LinkedIn Clone A full-stack application in which user can SignUp, SignIn, can create post with post description & Profile that can be updated, Live like and Comments Functionality(Using WebSocket-io)  React, Node.js, Express.js, MongoDB
+<h4>Chat-App - MERN Stack Project</h4>
+A Real-time chat application built with the MERN Stack Socket.IO and Cloudinary for Media storage. This app allows users to SignUp, SignIn, chat in real-time, show Online USers and share images, providing a smooth, modern messaging experience.
 
-Airbnb Clone	Clone of Airbnb with booking and search functionalities.	MERN Stack
-Personal Portfolio	My personal portfolio showcasing projects
+Live Demo: https://chat-app-client-nu-six.vercel.app/
 
+<h4>Airbnb Clone - MERN Stack Project</h4>
+A full-stack Airbnb clone built with MERN Stack(MongoDB, Express.js, React.js, Node.js) ->it allows users to signUp, SignIn, list properties for rent and book homes with real-time image uploads using Cloudinary and secure authentication using JWT.
+
+Live Demo: https://airbnb-clone.onrender.com/
+
+<h4>LinkedIn Clone</h4>
+LinkedIn Clone A full-stack application in which user can SignUp, SignIn, can create post with post description & Profile that can be updated, Real-time like and Comments Functionality(Using WebSocket-io)  React, Node.js, Express.js, MongoDB, multer & cloudinary(for image management)
+
+Live Demo: https://linkdlnclone-frontend-n3dn.onrender.com
 
 <h3>📈 GitHub Stats </h3>
 
